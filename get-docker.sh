@@ -1,5 +1,6 @@
 #!/bin/sh
 set -e
+# Jose Rojas @joserojas520@gmail.com, this app is very importan inside the world IT.
 # Docker Engine for Linux installation script.
 #
 # This script is intended as a convenient way to configure docker's package
